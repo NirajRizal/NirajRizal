@@ -2,7 +2,7 @@
 - 👀 I’m interested in Networking
 - 🌱 I’m currently learning Bsc CSIT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nirajrizal.com.np
+- 📫 How to reach me [nirajrizal.com.np](nirajrizal.com.np)
 
 <!---
 NirajRizal/NirajRizal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
